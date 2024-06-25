@@ -178,7 +178,7 @@
       <footer class="sticky-footer bg-white">
         <div class="container my-auto">
           <div class="text-center my-auto">
-            <span>Copyright &copy; Agung Dwi 2024</span>
+            <span>Copyright &copy; Dzaki 2024</span>
           </div>
         </div>
       </footer>

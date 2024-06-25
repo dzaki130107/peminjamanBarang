@@ -82,7 +82,7 @@ if ($_SESSION['status']=="login") {
                                             Me</label>
                                     </div>
                                 </div>
-                                <input type="submit" value="Login" name="masuk" class="btn btn-primary btn-user btn-block">
+                                <input type="submit" value="Login" name="masuk" class="btn btn-secondary btn-user btn-block">
                             </form>
                         </div>                     
             </div>

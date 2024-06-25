@@ -76,7 +76,7 @@ if(isset($_POST['pinjam'])) {
             <div class="input-group">
               <input type="text" class="form-control bg-light border-0 small" placeholder="Search for..." aria-label="Search" aria-describedby="basic-addon2" />
               <div class="input-group-append">
-                <button class="btn btn-primary" type="button">
+                <button class="btn btn-secondary" type="button">
                   <i class="fas fa-search fa-sm"></i>
                 </button>
               </div>
@@ -151,7 +151,7 @@ if(isset($_POST['pinjam'])) {
     <div class="form-group">
         <input type="hidden" class="form-control form-control-user" name="id_login">
     </div>
-    <input type="submit" name="pinjam" class="btn btn-primary btn-user btn-block">
+    <input type="submit" name="pinjam" class="btn btn-secondary btn-user btn-block">
 </form>
 
                 </div>
